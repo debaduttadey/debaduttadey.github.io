@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /about/
+permalink: https://debaduttadey.github.io/minimal-mistakes/about/
 header:
   image: #~/images/
   ---
