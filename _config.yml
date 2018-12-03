@@ -609,3 +609,5 @@ defaults:
       layout: single
       author_profile: true
 >>>>>>> 0f53c5d177b7bcd75ec4dd7ee99e1b1b6550c8dd
+
+theme: jekyll-theme-minimal
