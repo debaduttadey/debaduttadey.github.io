@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: https://debaduttadey.github.io/minimal-mistakes/about/
+permalink: /about/
 header:
   image: ~/images/waterfall.jpg
   ---
